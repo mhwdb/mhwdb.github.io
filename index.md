@@ -3,8 +3,8 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+comments: true
 title: 魔物獵人中文資料站
 icon: fa-home
-comments: true
 order: 1
 ---
