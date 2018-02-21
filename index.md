@@ -5,5 +5,6 @@
 layout: home
 title: 魔物獵人中文資料站
 icon: fa-home
+comments: true
 order: 1
 ---
