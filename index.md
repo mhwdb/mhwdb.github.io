@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 comments: true
-title: 魔物獵人中文資料站
+title: MHW 中文資料站
 icon: fa-home
 order: 1
 ---
